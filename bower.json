@@ -1,0 +1,27 @@
+{
+  "name": "tinymce-lang-fr",
+  "version": "1.0.0",
+  "authors": [
+    "Rémi Becheras <floss@remi-becheras.com>"
+  ],
+  "description": "Provide tinymce FR language pack",
+  "main": "fr_FR.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tinymce",
+    "lang",
+    "language-pack",
+    "FR",
+    "fr_FR"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
