@@ -202,4 +202,5 @@ tinymce.addI18n('fr_FR',{
 "Padding": "Marge intérieure",
 "Margin": "Marge extérieure",
 "Paragraph properties": "Propriété du paragraphe",
+"Unit": "Unité",
 });
