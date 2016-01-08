@@ -201,5 +201,5 @@ tinymce.addI18n('fr_FR',{
 "Line spacing": "Interligne",
 "Padding": "Marge intérieure",
 "Margin": "Marge extérieure",
-"Paragraph properties": "Propriété du paragraphe"
+"Paragraph properties": "Propriété du paragraphe",
 });
