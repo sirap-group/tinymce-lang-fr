@@ -203,4 +203,5 @@ tinymce.addI18n('fr_FR',{
 "Margin": "Marge extérieure",
 "Paragraph properties": "Propriété du paragraphe",
 "Unit": "Unité",
+"Release notes": "Notes de version"
 });
