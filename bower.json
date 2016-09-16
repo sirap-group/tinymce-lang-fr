@@ -2,7 +2,7 @@
   "name": "tinymce-lang-fr",
   "version": "1.0.3",
   "authors": [
-    "Rémi Becheras <floss@remi-becheras.com>"
+    "Rémi Becheras <rbecheras@sirap.fr>"
   ],
   "description": "Provide tinymce FR language pack",
   "main": "fr_FR.js",
