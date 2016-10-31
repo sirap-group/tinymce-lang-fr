@@ -227,5 +227,18 @@ tinymce.addI18n('fr_FR',{
 "Margin top": "Marge ext. haute",
 "Margin right": "Marge ext. droite",
 "Margin bottom": "Marge ext. basse",
-"Margin left": "Marge ext. gauche"
+"Margin left": "Marge ext. gauche",
+"solid": "continu",
+"dashed": "en tiret",
+"dotted": "en pointillé",
+"hidden": "masqué",
+"none": "aucun",
+"double": "double",
+"groove": "rainure",
+"ridge": "arête",
+"inset": "intérieur",
+"outset": "extérieur",
+"Double-click to edit this content": "Double cliquez pour editer",
+"Double-click to edit this header": "Double cliquez pour editer cet entête",
+"Double-click to edit this footer": "Double cliquez pour editer ce pied de page"
 });
