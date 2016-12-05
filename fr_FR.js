@@ -240,5 +240,6 @@ tinymce.addI18n('fr_FR',{
 "outset": "extérieur",
 "Double-click to edit this content": "Double cliquez pour editer",
 "Double-click to edit this header": "Double cliquez pour editer cet entête",
-"Double-click to edit this footer": "Double cliquez pour editer ce pied de page"
+"Double-click to edit this footer": "Double cliquez pour editer ce pied de page",
+"Show paragraphs": "Afficher les paragraphes"
 });
